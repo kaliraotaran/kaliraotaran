@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=kaliraotaran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-## 🚀 Featured project: SparkCode
+## Featured project: SparkCode
 
 A LeetCode-style practice app for **PySpark** and **Spark SQL**. Write code in the browser, run it on a real local Spark session in Docker, and get graded on your output.
 
